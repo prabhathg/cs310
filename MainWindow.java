@@ -7,8 +7,8 @@ public class MainWindow extends JFrame {
   }	
 
   public void init() {
-	this.setTitle("CS310 pramuka weerasinghe");
-	this.setSize(600, 600);
+	this.setTitle("CS310-Chr");
+	this.setSize(600, 400);
 	this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
   }
 
