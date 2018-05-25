@@ -9,8 +9,6 @@ public class MainWindow extends JFrame {
   public void init() {
 
 	this.setTitle("CS310-Cjkbhr");
-
-
 	this.setTitle("CS310 pramuka weerasinghe");
   this.setTitle("CS310-Chr");
   this.setTitle("CS310-yooo");
