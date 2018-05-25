@@ -13,7 +13,8 @@ public class MainWindow extends JFrame {
   }
 
   public static void main(String[] args) {
-     	MainWindow mw = new MainWindow();
-	mw.setVisible(true); 
+       MainWindow mw = new MainWindow();
+      Thread.sleep(1000); 
+	    mw.setVisible(true); 
   }
 }
