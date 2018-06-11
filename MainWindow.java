@@ -9,7 +9,7 @@ public class MainWindow extends JFrame {
   public void init() {
 
 	this.setTitle("CS310-Cjkbhr");
-	this.setTitle("CS310 pramuka weerasinghe");
+	this.setTitle("CS310 chalitha");
   this.setTitle("CS310-Chr");
   this.setTitle("CS310-yooo");
 	this.setSize(600, 400);
@@ -21,4 +21,6 @@ public class MainWindow extends JFrame {
       Thread.sleep(1000); 
 	    mw.setVisible(true); 
   }
+  
+  
 }
